@@ -61,17 +61,48 @@ This is a Regression Problem. Where have 1460 rows and 81 columns.
 
 
 
+## Random Forest 
+
+#### implementation 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/15.png)
+
+#### Evaluation 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/16.png)
+
+#### Random Forest Regression with Hyperparameter Tuning 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/17.png)
+
+#### Evaluating with Random Forest Regression with Hyperparameter Tuning 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/18.png)
 
 
 
+## Gradient Boosted Trees
+
+#### Implementation 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/19.png)
+
+#### Evaluation of Gradient Boosted Trees 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/20.png)
+
+#### Gradient Boosted Trees with Hyperparameter Tuning 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/21.png)
+
+#### Evaluation of Gradient Boosted Trees with Hyperparameter Tuning 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/22.png)
 
 
 
+## Predicting with Test Dataset 
+
+#### Predict with Test Dataset
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/23.png)
 
 
+## Future Work 
 
-
-##The Major Work of this Project are
-
-1. I trained with different different algorithms
-2. I tuned with Hyperparametered tuning. 
+1. In data preprocessing, standardize and normalize dataset because some ML Algorithms give standard accuracy with normalized data
+2. Use Different algorithms like Ridge Regression, Lasso Regression, KNN Model, SVM
+3. Use Hyperparameter Tuning using Grid-Search, Random-Search and Bayesian-Optimization
+4. Use Cross-Validation for overcoming overfitting. 
+5. Use Deep Learning for regression.  
