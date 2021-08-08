@@ -7,6 +7,16 @@ Predicting house price in different location using Machine Learning for customer
 This is a Regression Problem. Where have 1460 rows and 81 columns. 
 
 
+
+## Used Machine Learning Algorithms
+
+1. Linear Regression (with and without hyperparameter)
+2. Decision Tree Regression (with and without hyperparameter)
+3. Random Forest Regression (with and without hyperparameter) 
+4. Gradient Boosted (with and without hyperparameter) 
+
+
+
 ## Overview of Some Code 
 
 #### Missing Values 
