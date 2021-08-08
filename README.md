@@ -1,6 +1,24 @@
-#This is a Regression Technique using PySpark
+# House Price Prediction Using PySpark
 
-I Predicted House Price using PySpark Library. Because PySpark is very easy to handle a big dataset when we have Million Million rows and thousands thousnads columns.I made some auto functions to work/handle the dataset easily for example comparing columns for train and test dataset, Handling null value, finding categorical and Numerical variable. 
+## About Problem 
+Predicting house price in different location using Machine Learning for customers who want to buy a house, can easily find price of a house based on different design of the house. 
+
+## About Dataset 
+This is a Regression Problem. Where have 1460 rows and 81 columns. 
+
+
+## Overview of Some Code 
+
+#### Missing Values 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/1.png)
+
+#### Handling Missing Values 
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/2.png)
+
+#### Handling outlier
+![alt text](https://github.com/hasan-moni-321/PySpark-Regression/blob/master/images/3.png)
+
+
 
 
 
